@@ -1,0 +1,4 @@
+com\bjc\cloud\service\DeptClientServiceFallbackFactory.class
+com\bjc\cloud\service\DeptClientServiceFallbackFactory$1.class
+com\bjc\cloud\entity\Dept.class
+com\bjc\cloud\service\DeptClientService.class

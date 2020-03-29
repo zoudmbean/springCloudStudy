@@ -1,0 +1,16 @@
+server:
+  port: 3344
+  
+spring:
+  application:
+    name: microservicecloud-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/zoudmbean/microservicecloud-config.git  ## gitHub仓库配置文件地址
+          ## 其他配置
+          #force-pull: true    ## 使本地的配置保持最新的
+          #username: 用户名
+          #password: 密码
+          #skip-ssl-validation: true

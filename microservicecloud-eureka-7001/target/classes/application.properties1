@@ -1,0 +1,6 @@
+server.port=7004
+ 
+spring.application.name=eureka-server
+eureka.client.registerWithEureka=false 
+eureka.client.fetchRegistry=false  
+
